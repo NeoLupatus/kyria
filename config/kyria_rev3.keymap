@@ -78,9 +78,9 @@
             // |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
             //                       |      |      |      |      |      |      |      |      |      |      |      |      |
             bindings = <
-            &kp T      &kp TAB   &kp Q  &kp X      &kp E    &kp R                                               &kp Y    &kp U    &kp I     &kp O   &kp P    &kp GRAVE
-            &kp G      &kp LSHFT &kp A  &kp W      &kp D    &kp F                                               &kp H    &kp J    &kp K     &kp L   &kp SEMI &kp SQT
-            &kp B      &kp LCTRL &kp Z  &kp S      &kp C    &kp V    &mo 4       &kp ESC    &kp RGUI  &tog 3    &kp N    &kp M    &kp COMMA &kp DOT &kp FSLH &kp BSLH
+            &kp T      &kp TAB   &kp Q  &kp W      &kp E    &kp R                                               &kp Y    &kp U    &kp I     &kp O   &kp P    &kp GRAVE
+            &kp G      &kp LSHFT &kp A  &kp S      &kp D    &kp F                                               &kp H    &kp J    &kp K     &kp L   &kp SEMI &kp SQT
+            &kp B      &kp LCTRL &kp Z  &kp X      &kp C    &kp V    &mo 4       &kp ESC    &kp RGUI  &tog 3    &kp N    &kp M    &kp COMMA &kp DOT &kp FSLH &kp BSLH
                                         &kp C_MUTE &kp LGUI &kp LALT &kp SPACE   &kp RET    &kp BSPC  &kp RSHFT &kp  DEL &kp CAPS &kp C_PP
             >;
 
@@ -94,9 +94,9 @@
             // |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
             //                       |      |      |      |      |      |      |      |      |      |      |      |      |
             bindings = <
-            &kp N0     &kp N1    &kp N2 &kp N3     &kp N4   &kp N5                                              &kp Y    &kp U    &kp I     &kp O   &kp P    &kp GRAVE
-            &kp G      &kp LSHFT &kp A  &kp W      &kp D    &kp F                                               &kp H    &kp J    &kp K     &kp L   &kp SEMI &kp SQT
-            &kp B      &kp LCTRL &kp Z  &kp S      &kp C    &kp V    &mo 4       &kp ESC    &kp RGUI  &tog 3    &kp N    &kp M    &kp COMMA &kp DOT &kp FSLH &kp BSLH
+            &kp T      &kp TAB   &kp Q  &kp W      &kp E    &kp R                                               &kp Y    &kp U    &kp I     &kp O   &kp P    &kp GRAVE
+            &kp G      &kp LSHFT &kp A  &kp S      &kp D    &kp F                                               &kp H    &kp J    &kp K     &kp L   &kp SEMI &kp SQT
+            &kp N0     &kp N1    &kp N2 &kp N3     &kp N4   &kp N5   &mo 4       &kp ESC    &kp RGUI  &tog 3    &kp N    &kp M    &kp COMMA &kp DOT &kp FSLH &kp BSLH
                                         &kp C_MUTE &kp LGUI &kp LALT &kp SPACE   &kp RET    &kp BSPC  &kp RSHFT &kp  DEL &kp CAPS &kp C_PP
             >;
 
