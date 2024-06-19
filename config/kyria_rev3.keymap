@@ -14,8 +14,8 @@
 #include <dt-bindings/zmk/outputs.h>
 /* Uncomment this block if using RGB
 &led_strip {
-    chain-length = <6>;
-    // chain-length = <31>; // Uncomment if using both per-key and underglow LEDs
+    // chain-length = <6>; // Uncomment if only underglow
+    chain-length = <31>; // Uncomment if using both per-key and underglow LEDs
     // chain-length = <25>; // Uncomment if using only per-key LEDs.
 };
  */
@@ -84,7 +84,7 @@
                                         &kp C_MUTE &kp LGUI &kp LALT &kp SPACE   &kp RET    &kp BSPC  &kp RSHFT &kp  DEL &kp CAPS &kp C_PP
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_NEXT C_PREV>;
         };
 
         gaming_number_layer {
