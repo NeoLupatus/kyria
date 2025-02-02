@@ -24,3 +24,5 @@ include:
     shield: kyria_rev3_right
   - board: nice_nano_v2
     shield: settings_reset
+  - board: seeeduino_xiao_ble
+    shield: kyria_dongle prospector_adapter
