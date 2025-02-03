@@ -1,8 +1,16 @@
 #include <dt-bindings/zmk/matrix_transform.h>
+#import "my_keyboard-layouts.dtsi"
+
+
+&splitkb_kyria_6col_layout {
+    transform = <&default_transform>;
+};
+
 
 / {
     chosen {
         zmk,kscan = &mock_kscan;
+        zmk,physical-layout = &splitkb_kyria_6col_layout;
     };
 
     mock_kscan: mock_kscan_0 {
