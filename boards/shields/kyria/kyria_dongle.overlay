@@ -10,7 +10,7 @@
 / {
     chosen {
         zmk,kscan = &mock_kscan;
-        zmk,physical-layout = &splitkb_kyria_6col_layout;
+        zmk,physical-layout = &kyria_layout;
     };
 
     mock_kscan: mock_kscan_0 {
