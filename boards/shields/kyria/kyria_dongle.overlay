@@ -1,12 +1,6 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 
 
-
-&kyria_layout {
-    transform = <&default_transform>;
-};
-
-
 / {
     physical_layout0: physical_layout_0 {
         compatible = "zmk,physical-layout";
