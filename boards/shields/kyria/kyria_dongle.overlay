@@ -1,5 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#import "kyria_layouts.dtsi"
+#import "kyria-layouts.dtsi"
 
 
 &splitkb_kyria_6col_layout {
