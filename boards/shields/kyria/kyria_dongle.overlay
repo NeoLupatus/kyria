@@ -2,7 +2,7 @@
 #import "kyria-layouts.dtsi"
 
 
-&splitkb_kyria_6col_layout {
+&kyria_layout {
     transform = <&default_transform>;
 };
 
