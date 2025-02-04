@@ -3,11 +3,11 @@
 
 
 
+&kyria_layout {
+    transform = <&default_transform>;
 
 
 / {
-&kyria_layout {
-    transform = <&default_transform>;
 };
     chosen {
         zmk,kscan = &mock_kscan;
