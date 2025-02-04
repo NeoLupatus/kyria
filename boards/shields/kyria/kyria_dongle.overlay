@@ -3,7 +3,7 @@
 
 
 &kyria_layout {
-    transform = <&default_transform>;
+    transform = <&keymap_transform_0>;
 };
 
 
