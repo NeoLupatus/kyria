@@ -1,7 +1,7 @@
 #include <physical_layouts.dtsi>
 
 / {
-    splitkb_kyria_6col_layout: splitkb_kyria_6col_layout {
+    kyria_layout: kyria_layout {
         compatible = "zmk,physical-layout";
         display-name = "6 Column";
 
@@ -61,13 +61,13 @@
 
    
 
-    splitkb_kyria_position_map {
+    kyria_position_map {
         compatible = "zmk,physical-layout-position-map";
 
         complete;
 
         twelve {
-            physical-layout = <&splitkb_kyria_6col_layout>;
+            physical-layout = <&kyria_layout>;
             positions
                 = < 0  1  2  3  4  5              6  7  8  9 10 11>
                 , <12 13 14 15 16 17             18 19 20 21 22 23>
