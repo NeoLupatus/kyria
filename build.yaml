@@ -18,8 +18,8 @@
 #
 ---
 include:  
-  - board: nice_nano_v2
-    shield: kyria_rev3_dongle  #dongle_display
+#  - board: nice_nano_v2
+#    shield: kyria_rev3_dongle  #dongle_display
   - board: nice_nano_v2
     shield: settings_reset
   - board: nice_nano_v2
