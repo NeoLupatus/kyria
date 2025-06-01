@@ -95,9 +95,9 @@
             // |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
             //                       |      |      |      |      |      |      |      |      |      |      |      |      |
             bindings = <
-            &kp N4      &kp TAB   &kp Q  &kp W      &kp E    &kp N1                                              &kp F1     &kp F2    &kp F3     &kp F4     &kp F5    &kp F6
-            &kp N5      &kp LSHFT &kp A  &kp S      &kp D    &kp N2                                              &kp F7     &kp F8    &kp F9     &kp F10    &kp F11   &kp F12
-            &kp N6      &kp LCTRL &kp Z  &kp X      &kp C    &kp N3   &mo 4       &tog 3     &kp RGUI  &tog 3    &kp N      &kp M     &kp COMMA  &kp DOT &kp FSLH &kp BSLH
+            &kp N4      &kp TAB   &kp Q  &kp X      &kp E    &kp N1                                              &kp F1     &kp F2    &kp F3     &kp F4     &kp F5    &kp F6
+            &kp N5      &kp LSHFT &kp A  &kp W      &kp D    &kp N2                                              &kp F7     &kp F8    &kp F9     &kp F10    &kp F11   &kp F12
+            &kp N6      &kp LCTRL &kp Z  &kp S      &kp C    &kp N3   &mo 4       &tog 3     &kp RGUI  &tog 3    &kp N      &kp M     &kp COMMA  &kp DOT &kp FSLH &kp BSLH
                                          &kp C_MUTE &kp LGUI &kp LALT &kp SPACE   &kp RET    &kp BSPC  &kp RSHFT &kp  DEL   &kp CAPS  &kp C_PP
             >;
 
